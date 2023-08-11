@@ -64,7 +64,7 @@ public class Stack {
 
         System.out.printf("Pop: %d\n", stack.pop());
         System.out.printf("Stack size: %d\n", stack.size);
-        
+
     }
 }
 
